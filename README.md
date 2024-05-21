@@ -1,6 +1,6 @@
 <h1>NICE Challenge Project Assignments/Projects</h1>
 <p align="center">
-<img src="https://i.imgur.com/ARGlAoP.png" height="30%" width="60%" alt="Python 3"/>
+<img src="https://i.imgur.com/ARGlAoP.png" height="100%" width="100%" alt="Python 3"/>
 </p>
 <h2>Description</h2>
 This repository contains a compilation of various Python projects from my Python programming class. It showcases a wide range of programming concepts including conditional statements, loops, functions, and list manipulations. Each project is organized into individual Python files, each demonstrating different coding tasks such as guessing games and other algorithmic challenges. This collection is intended for educational purposes and serves as a practical reference for beginners to intermediate Python learners.
