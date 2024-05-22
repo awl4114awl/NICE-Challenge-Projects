@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/ARGlAoP.png" height="100%" width="100%" alt="Python 3"/>
 </p>
 <h2>Description</h2>
-This repository contains a compilation of various Python projects from my Python programming class. It showcases a wide range of programming concepts including conditional statements, loops, functions, and list manipulations. Each project is organized into individual Python files, each demonstrating different coding tasks such as guessing games and other algorithmic challenges. This collection is intended for educational purposes and serves as a practical reference for beginners to intermediate Python learners.
+This GitHub repository hosts submission reports for NICE Challenges from a Cyber Defense and Analysis class. Each report details cybersecurity scenarios, including risk management, IT security principles, and system administration tasks. The reports provide thorough analyses and outcomes of the security measures implemented.
 <br />
 <h2>Key Features</h2>
 <b>-Challenge Scenarios:</b> Real-world security policy enforcement and validation.<br/>
