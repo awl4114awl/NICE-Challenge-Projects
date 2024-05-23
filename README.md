@@ -15,6 +15,9 @@
     Server Manager
     Group Policy Management Console (GPMC)
     Windows Security Settings
+
+## Network Map
+<img src="https://i.imgur.com/Ms9L7zn.jpeg" height="80%" width="80%" alt="NICE Challenge"/>
     
 ## Solution
 
