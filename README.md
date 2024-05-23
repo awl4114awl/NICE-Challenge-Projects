@@ -7,7 +7,16 @@
     
     If any of these new policies are not being enforced you will also be in charge of creating technical policies in form of a GPO on the Domain Controller to enforce these security policies.
 
-<h2>Solution</h2>
+## Tools Used
+
+    Workstation-Desk
+    PDF Viewer
+    Domain-Controller VM
+    Server Manager
+    Group Policy Management Console (GPMC)
+    Windows Security Settings
+    
+## Solution
 
     I started by logging into the Workstation-Desk and navigating to the Network fileshare tab. I clicked on dasShare and opened the "Dynamic Arbitrary Solutions Policy" PDF to review the necessary policies.
 
@@ -19,7 +28,7 @@
 
     Finally, I linked the new GPO to the domain by right-clicking the "daswebs.com" domain, selecting "Link an Existing GPO...", choosing "DasPol", and clicking "Detect Now".
 
-<h2>Report</h2>
+## Report
 <img src="https://i.imgur.com/O5RRGzC.png" height="80%" width="80%" alt="NICE Challenge"/>
 
 <img src="https://i.imgur.com/z2vj0D2.png" height="80%" width="80%" alt="NICE Challenge"/>
