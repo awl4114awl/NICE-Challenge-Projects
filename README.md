@@ -9,25 +9,21 @@
 
 <h2>Solution</h2>
 
-    I first opened the Workstation-Desk and logged on. I went to the Network fileshare tab, clicked on dasShare then opened the "Dynamic Arbitrary Solutions Policy" pdf to get the policies needed.
+    I started by logging into the Workstation-Desk and navigating to the Network fileshare tab. I clicked on dasShare and opened the "Dynamic Arbitrary Solutions Policy" PDF to review the necessary policies.
 
-    Then I opened up the Domain-Controller VM and logged on. Once on the Domain-Controller, I opened up Server Manager and went to Group Policy Management. I expanded Forest > daswebs.com > Group Policy Object. Under this folder I created a new GPO called "DasPol". Then I right clicked the newly created GPO and clicked "edit".
+    Next, I logged into the Domain-Controller VM. In Server Manager, I accessed Group Policy Management, expanded Forest > daswebs.com > Group Policy Objects, and created a new GPO named "DasPol". I right-clicked on the new GPO and selected "edit".
 
-    Next I clicked on "Computer Configuration" > "Policies" > "Windows Settings" > "Security Settings" > "Account Policies".
+    In the editor, I navigated to "Computer Configuration" > "Policies" > "Windows Settings" > "Security Settings" > "Account Policies". 
 
-    Then I changed the Password Policy and Account Lockout Policy according to the pdf I pulled up on Workstation-Desk. 
+    I updated the Password Policy and Account Lockout Policy according to the PDF from Workstation-Desk.
 
-    To link the new GPO to the domain-level I right clicked on the "daswebs.com" domain and selected "Link an Existing GPO...". From there I selected the GPO "DasPol" and hit "Detect Now".
+    Finally, I linked the new GPO to the domain by right-clicking the "daswebs.com" domain, selecting "Link an Existing GPO...", choosing "DasPol", and clicking "Detect Now".
 
 <h2>Report</h2>
-<br />
-<br />
 <img src="https://i.imgur.com/O5RRGzC.png" height="80%" width="80%" alt="NICE Challenge"/>
-<br />
-<br />
+
 <img src="https://i.imgur.com/z2vj0D2.png" height="80%" width="80%" alt="NICE Challenge"/>
-<br />
-<br />
+
 <img src="https://i.imgur.com/PYkn3iW.png" height="80%" width="80%" alt="NICE Challenge"/>
 <br />
 <br />
