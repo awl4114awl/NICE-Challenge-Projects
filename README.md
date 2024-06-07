@@ -31,12 +31,11 @@
 
     Finally, I linked the new GPO to the domain by right-clicking the "daswebs.com" domain, selecting "Link an Existing GPO...", choosing "DasPol", and clicking "Detect Now".
 
-## Report
-<img src="https://i.imgur.com/O5RRGzC.png" height="80%" width="80%" alt="NICE Challenge"/>
+<p align="center"><img src="https://i.imgur.com/O5RRGzC.png" height="80%" width="80%" alt="NICE Challenge"/>
 
-<img src="https://i.imgur.com/z2vj0D2.png" height="80%" width="80%" alt="NICE Challenge"/>
+<p align="center"><img src="https://i.imgur.com/z2vj0D2.png" height="80%" width="80%" alt="NICE Challenge"/>
 
-<img src="https://i.imgur.com/PYkn3iW.png" height="80%" width="80%" alt="NICE Challenge"/>
+<p align="center"><img src="https://i.imgur.com/PYkn3iW.png" height="80%" width="80%" alt="NICE Challenge"/>
 <br />
 <br />
 </p>
